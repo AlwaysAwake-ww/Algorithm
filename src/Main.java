@@ -12,7 +12,9 @@ public class Main {
     public static void main(String[] args){
 
 
-        String name = "JEROEN";
+        //String name = "JEROEN";
+        //String name = "JEROEN";
+        String name = "BBBAAAAAB";
 
         week5_joystick a = new week5_joystick();
         System.out.println(a.solution(name));
