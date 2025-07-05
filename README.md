@@ -36,6 +36,7 @@
 
 [지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353)
 
+[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)
 
 #### 6주차 ####
 
