@@ -57,7 +57,7 @@ public class week6_emoticon {
                 }
             }
 
-            if(sum > userLimit){
+            if(sum >= userLimit){
 
                 // 유저 구매 상한보다 높으면 이모티콘 플러스 가입
                 cnt++;
